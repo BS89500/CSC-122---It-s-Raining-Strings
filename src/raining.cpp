@@ -1,5 +1,7 @@
 #include <string>
+#include <vector>
+using namespace std;
+std::vector<string> businessSort(vector<string> businesses) {
 
-std::string hello() {
-   return "Hello World!";
+   //return "Hello World!";
 }
